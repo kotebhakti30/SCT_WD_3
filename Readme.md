@@ -1,17 +1,22 @@
-🚀 Project Overview
+# ❌⭕ Tic-Tac-Toe Game
 
-This repository contains the deliverables for my web development internship at Skillcraft Technology.
-The project focuses on building a modern, responsive, and user-friendly multi-page website using HTML, CSS, and JavaScript.
+## 📌 Project Overview
+A classic **Tic-Tac-Toe game** where two players can play alternately.  
+The game detects winners, draws, and allows resetting.
 
-Each task introduced new concepts, features, and design elements to strengthen front-end development skills.
+## ✨ Features
+- Two-player functionality
+- Detects win and draw conditions
+- Highlights the winning combination
+- Reset option to play again
+- Responsive design
 
-Task 3 – Multi-Page Website Structure
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
-Linked multiple pages (Home, About, Services, Contact) with a consistent navbar & footer.
+## 🌐 Live Demo
+👉 [View Project](https://kotebhakti30.github.io/SCT_WD_3/)
 
-Used section-based navigation with smooth scrolling.
-
-Focused on maintaining consistent design across all pages.
-
-🚩 Learning: Project structuring, reusability of code, multi-page navigation.
-Check it out:https://kotebhakti30.github.io/SCT_WD_3/
+---
